@@ -1,0 +1,21 @@
+\section{Queries to be executed:}
+\begin{enumerate}
+	\item All the users that are a part of the system
+	\item All the Sports Committee members
+	\item Details about all the sports being played in the institution
+	\item Details about the teams of all the sports including their captains
+	\item Total stock available for all the items
+  \item Stock information for a particular item
+  \item Stock information for items of a particular sport
+  \item Total damaged items for each sport and their information
+  \item Sportwise number of requests for equipments
+  \item Equipment not yet returned
+  \item Users returning damaged equipment
+  \item Most demanded equipments
+  \item Most expensive sports
+  \item Most lasting equipments
+  \item List of sports not being played (?)
+  \item List of available equipments
+  \item Give details about who bought a particular equpiment and when
+  \item List of pending requests
+\end{enumerate}
